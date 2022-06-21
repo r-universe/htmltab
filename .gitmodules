@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "htmltab"]
+	path = htmltab
+	url = https://github.com/htmltab/htmltab
+	shallow = true
+	registered = true
